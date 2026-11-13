@@ -23,3 +23,5 @@ env/
 .env
 .env.*
 
+# Generated model and results
+model_comparison.csv
