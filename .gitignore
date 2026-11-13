@@ -23,6 +23,3 @@ env/
 .env
 .env.*
 
-# Generated model and results
-model.pkl
-model_comparison.csv
